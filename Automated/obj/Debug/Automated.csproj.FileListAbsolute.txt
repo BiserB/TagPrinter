@@ -1,0 +1,8 @@
+D:\PROJECTS\INTERMEC\Automated\Automated\bin\Debug\Automated.exe
+D:\PROJECTS\INTERMEC\Automated\Automated\bin\Debug\Automated.pdb
+D:\PROJECTS\INTERMEC\Automated\Automated\bin\Debug\IntermecPrinter.dll
+D:\PROJECTS\INTERMEC\Automated\Automated\obj\Debug\Automated.csprojAssemblyReference.cache
+D:\PROJECTS\INTERMEC\Automated\Automated\obj\Debug\Automated.csproj.CoreCompileInputs.cache
+D:\PROJECTS\INTERMEC\Automated\Automated\obj\Debug\Automated.csproj.CopyComplete
+D:\PROJECTS\INTERMEC\Automated\Automated\obj\Debug\Automated.exe
+D:\PROJECTS\INTERMEC\Automated\Automated\obj\Debug\Automated.pdb
