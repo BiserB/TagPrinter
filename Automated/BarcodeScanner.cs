@@ -1,6 +1,5 @@
 ﻿using Intermec.Printer;
 using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Threading;
@@ -13,9 +12,7 @@ namespace Automated
         public static string scannedBarcode;
 
         public static void Scan()
-        {
-            
-
+        { 
             Communication.USBHost usbHost = new Communication.USBHost("/dev/ttyUSB0");
 
             usbHost.Open();
@@ -54,8 +51,6 @@ namespace Automated
 
                 usbHost.Close();
             }
-
-            // Thread.Sleep(100);
 
             usbHost.Dispose();
         }
